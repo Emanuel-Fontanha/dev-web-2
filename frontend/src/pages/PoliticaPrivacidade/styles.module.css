@@ -1,0 +1,8 @@
+.contentContainer {
+	max-width: 760px;
+}
+
+.contentCard {
+	line-height: 1.8;
+	color: var(--text-medium);
+}
